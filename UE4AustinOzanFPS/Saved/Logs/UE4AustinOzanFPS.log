@@ -872,3 +872,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.10.25-00.53.28:585][  0]LogLoad: (Engine Initialization) Total time: 16.33 seconds
 [2023.10.25-00.53.28:585][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
 [2023.10.25-00.53.28:664][  0]LogContentStreaming: Texture pool size now 400 MB
+[2023.10.25-00.53.34:856][368]LogAssetRegistry: Asset discovery search completed in 17.5694 seconds
+[2023.10.25-00.53.34:869][368]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
